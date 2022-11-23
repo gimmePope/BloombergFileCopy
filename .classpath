@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java [1.8.321.07]"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/sshj-0.33.0.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-2.0.0-alpha4.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-simple-2.0.0-alpha4.jar"/>
+	<classpathentry kind="lib" path="lib/bcpkix-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="lib/eddsa-0.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/asn-one-0.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/bcprov-jdk15on-1.70.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
